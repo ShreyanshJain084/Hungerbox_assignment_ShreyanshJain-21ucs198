@@ -1,8 +1,17 @@
 <h1>IMPORTANT</h1>
-<h3>This is just a command-line based implementation of the program</h3>
-<h3>The web-based solution can be found at:</h3>
-<a href="https://www.example.com">Visit Example</a>
-
+<h3>The web-based implementation can be found at:</h3>
+<a href="https://www.example.com">https://github.com/ShreyanshJain084/Parking_Lot_btp</a>
+</br>
+</br>
+IT WAS PART OF MY BTECH MAJOR PROJECT</br>
+</br>
+I,along with my other teammates built this project.
+Our solution, built using the MERN stack and Tailwind CSS, aims to solve two major real-life problems:
+Allow online and advanced booking of parking spaces: This ensures that when you are going to any place, you do not worry about parking your vehicle.
+Increase the visibility of parking lots: This results in profit maximization for parking lot owners.
+Customers need to provide their location access to us, and we will show the nearby available parking lots sorted by nearest distance. To book a parking space online, users must first log in to our website, choose the desired parking lot, and book their parking.
+<hr>
+<h3>In this assignment I am developing a command-line based implementation of the given problem</h3>
 <h1>Assignment: Designing a Parking Lot System</h1>
 <p>A command-line-based Parking Lot System designed to efficiently manage parking spaces across multiple floors, 
 supporting different vehicle types such as Cars, Bikes, and Trucks. This system follows object-oriented design principles, 

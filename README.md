@@ -12,7 +12,7 @@ Increase the visibility of parking lots: This results in profit maximization for
 Customers need to provide their location access to us, and we will show the nearby available parking lots sorted by nearest distance. To book a parking space online, users must first log in to our website, choose the desired parking lot, and book their parking.
 <hr>
 <h3>In this assignment I am developing a command-line based implementation of the given problem</h3>
-<h1>Assignment: Designing a Parking Lot System</h1>
+<h1>Problem: Designing a Parking Lot System</h1>
 <p>A command-line-based Parking Lot System designed to efficiently manage parking spaces across multiple floors, 
 supporting different vehicle types such as Cars, Bikes, and Trucks. This system follows object-oriented design principles, 
 ensures concurrency handling, and provides essential functionalities like parking, unparking, and querying available spots.</p>

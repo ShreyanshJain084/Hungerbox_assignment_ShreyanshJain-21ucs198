@@ -1,6 +1,6 @@
 <h1>IMPORTANT</h1>
 <h3>The web-based implementation can be found at:</h3>
-<a href="https://frontend-nextgen-parking.vercel.app/">next-gen-parking</a>
+<a href="https://github.com/ShreyanshJain084/Parking_Lot_btp">PARKING_LOT_PROJECT</a>
 </br>
 </br>
 IT WAS PART OF MY BTECH MAJOR PROJECT</br>
